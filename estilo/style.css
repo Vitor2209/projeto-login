@@ -55,4 +55,8 @@ main {
     display: block;
     padding: 10px;
 }
+
+#formulario > h1 {
+    font-size: 0.8em;
+}
     
